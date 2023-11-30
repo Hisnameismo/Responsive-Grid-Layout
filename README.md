@@ -1,4 +1,4 @@
-# Responsive-Grid-Layout 
+# Responsive Grid Layout 
 
 Responsive Grid Layout, created with HTML / CSS / JavaScript, for optimized styling for every device.
 
@@ -20,3 +20,6 @@ Responsive Grid Layout, created with HTML / CSS / JavaScript, for optimized styl
 
 
 ![MobileView](https://i.imgur.com/TDHFF9C.png)
+
+
+Inspired by https://github.com/AsmrWebCoding
